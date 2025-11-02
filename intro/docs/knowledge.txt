@@ -1,0 +1,8 @@
+The weather in Jakarta is Sunny.
+The weather in Bandung is Rainy.
+The weather in Bali is Cloudy.
+The weather in Paris is Snowy.
+The weather in London is Foggy.
+The weather in New York is Windy.
+The weather in Tokyo is Sunny.
+The weather in Sydney is Clear.

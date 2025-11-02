@@ -1,0 +1,15 @@
+[
+  {
+    "input": "Where is the Eiffel Tower located?",
+    "expected_output": "The Eiffel Tower is located in Paris, France."
+  },
+  {
+    "input": "What is the highest mountain in the world?",
+    "expected_output": "Mount Everest is the highest mountain in the world."
+  },
+  {
+    "input": "Who is the current president of the United States?",
+    "expected_output": "Joe Biden is current president of the United States."
+  }
+]
+
