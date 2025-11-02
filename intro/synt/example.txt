@@ -1,0 +1,7 @@
+The Eiffel Tower is a wrought-iron lattice tower located on the Champ de Mars in Paris, France. 
+It was named after the engineer Gustave Eiffel, whose company designed and built the tower. 
+
+Construction began in 1887 and was completed in 1889 as the entrance arch for the 1889 World's Fair. 
+The tower is 330 meters tall and was the tallest structure in the world until the completion of the Chrysler Building in New York in 1930. 
+
+Today, it remains one of the most visited monuments in the world, attracting nearly seven million visitors annually.
